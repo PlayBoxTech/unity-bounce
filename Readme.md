@@ -1,4 +1,4 @@
-# Bounce! 
+# Get Bounced! 
 This is a game being written by [Play Box Tech](https://playbox.tech). 
 
 Not really sure where the game is going yet, but right now you score points by keeping the ball bouncing. 
